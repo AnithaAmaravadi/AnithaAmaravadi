@@ -1,14 +1,14 @@
  <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=190&section=header&text=YOUR%20NAME&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=190&section=header&text=Anitha%20Amaravadi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=58" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Building+things+people+actually+use;%F0%9F%94%A5+Open+Source+Contributor;%E2%9A%A1+Turning+coffee+into+clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=58A6FF&label=FOLLOWERS" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=f7768e&label=STARS" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=AnithaAmaravadi&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/AnithaAmaravadi?style=for-the-badge&color=58A6FF&label=FOLLOWERS" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/AnithaAmaravadi?style=for-the-badge&color=f7768e&label=STARS" alt="stars"/>
 </p>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
@@ -16,7 +16,7 @@
 
 ```ts
 const developer: Developer = {
-  name: "AnithaAmaravadi",
+  name: "Anitha Amaravadi",
   role: "Full-Stack Developer",
   location: "Planet Earth 🌍",
   stack: ["TypeScript", "React", "Node.js", "Python"],
@@ -94,11 +94,11 @@ export default developer; // ready to build with you
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/AnithaAmaravadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/AnithaAmaravadi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/AnithaAmaravadi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:hello@anithaamaravadi.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/AnithaAmaravadi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <!-- ═══════════════════════ CTA ═══════════════════════ -->
@@ -106,7 +106,7 @@ export default developer; // ready to build with you
 
 ```ts
 if (profile.isCool === true) {
-  you.follow("YOUR_USERNAME");  // 🔔 hit it — new drops incoming
+  you.follow("AnithaAmaravadi");  // 🔔 hit it — new drops incoming
 }
 ```
 
