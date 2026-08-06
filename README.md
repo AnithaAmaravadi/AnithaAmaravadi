@@ -65,29 +65,29 @@ export default developer; // ready to build with you
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="55%"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="44%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=AnithaAmaravadi&theme=tokyonight&hide_border=true" width="44%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="32%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" width="66%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaAmaravadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="32%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnithaAmaravadi&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" width="66%"/>
 </p>
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 ## 🏆 Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnithaAmaravadi&theme=radical&no-frame=true&column=7&margin-w=10" width="100%"/>
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Watching my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
