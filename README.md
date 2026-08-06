@@ -13,7 +13,7 @@
 
 ```javascript
 const anitha_student = {
-    status: "Computer Science Student 🎓",
+    status: "CSE (AI&ML) Student 🎓",
     currentFocus: ["Data Structures", "Web Development", "AI/ML"],
     lookingFor: "Internships & Hackathon Collabs 🤝",
     dailyRoutine: ["Eat", "Sleep", "Code", "Debug", "Repeat"],
