@@ -1,90 +1,64 @@
-<!-- ═══════════════════════ TERMINAL HEADER ═══════════════════════ -->
-```bash
-root@anithaamaravadi:~$ ./load_profile.sh
-> Establishing secure connection... [ OK ]
-> Fetching real-time repository data... [ OK ]
-> Welcome to Anitha's Workspace.
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,12&height=220&section=header&text=Anitha%20Amaravadi&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Computer+Science+Student%20%F0%9F%8E%93%20|%20Tech%20Enthusiast&descSize=18&descAlignY=62" width="100%"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=gradient&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Anitha+%F0%9F%91%8B;CS+Student+Passionate+About+Code+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80;Building+Projects+%26+Solving+Problems+%F0%9F%A7%A0" alt="Typing SVG" />
+</div>
+
+<!-- ═══════════════════════ STUDENT ABOUT ME ═══════════════════════ -->
+<img align="right" alt="Student Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+### 👩‍💻 About Me: The Student Developer
+
+```javascript
+const anitha_student = {
+    status: "Computer Science Student 🎓",
+    currentFocus: ["Data Structures", "Web Development", "AI/ML"],
+    lookingFor: "Internships & Hackathon Collabs 🤝",
+    dailyRoutine: ["Eat", "Sleep", "Code", "Debug", "Repeat"],
+    funFact: "I can debug code faster than I can make coffee ☕",
+    2024_Goals: "Contribute to Open Source & Build 3 Major Projects"
+};
 ```
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Anitha+Amaravadi;Architecting+Scalable+Solutions;Open+Source+%7C+Full-Stack+%7C+Cloud" alt="Typing SVG" />
-</h1>
+<br>
 
+- 🌱 I’m currently expanding my knowledge in **Full-Stack Development & Cloud**.
+- 👯 I’m looking to collaborate on **student projects and open-source**.
+- 💬 Ask me about **Python, Java, and Web Technologies**!
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anitha-amaravadi3)**
+
+<br>
+
+<!-- ═══════════════════════ ANIMATED TECH STACK ═══════════════════════ -->
+### 🛠️ My Tech Arsenal
 <p align="center">
-  <a href="https://www.linkedin.com/in/anitha-amaravadi3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AnithaAmaravadi&style=for-the-badge&color=8b5cf6&label=Profile%20Views" alt="views"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongodb,git,github,vscode&theme=dark" />
 </p>
 
-<!-- ═══════════════════════ REAL-TIME ARCHITECTURE ═══════════════════════ -->
-## 🧠 System Architecture (My Stack)
+<!-- ═══════════════════════ LIVE STATS & GRAPHS ═══════════════════════ -->
+### 📊 My GitHub Journey (Live Data)
+*(Note: It takes 1-2 minutes for these graphs to load the first time!)*
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ What I'm Currently Building</h3>
-      <ul>
-        <li>🚀 Scalable full-stack web applications</li>
-        <li>🤖 AI-integrated backend microservices</li>
-        <li>🛠️ Open-source developer tooling</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Core Technologies</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=radical&hide_border=true&title_color=ff6e96&icon_color=79ffe1&text_color=a9fef7" alt="Anitha's GitHub stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnithaAmaravadi&theme=radical&hide_border=true&stroke=0000&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96"/>
+</div>
 
-<!-- ═══════════════════════ REAL REPO DATA ═══════════════════════ -->
-## 📊 Codebase Analytics (Live Data)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnithaAmaravadi&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Coding%20Activity%20%F0%9F%93%88" alt="Activity Graph"/>
+</div>
 
-*Real-time statistics pulled directly from my active repositories.*
 
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+### 🤝 Let's Connect & Grow Together!
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnithaAmaravadi&theme=github_dark" alt="Real Profile Details"/>
+  <a href="https://www.linkedin.com/in/anitha-amaravadi3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me" alt="LinkedIn"/>
+  </a>
+  <img src="https://profile-counter.glitch.me/AnithaAmaravadi/count.svg" alt="Visitor Count"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnithaAmaravadi&theme=github_dark" alt="Repo Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnithaAmaravadi&theme=github_dark" alt="Commit Languages"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnithaAmaravadi&theme=github_dark" alt="Overall Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnithaAmaravadi&theme=github_dark" alt="Productive Time"/>
-</p>
-
-<!-- ═══════════════════════ CONTRIBUTION MATRIX ═══════════════════════ -->
-## 🗓️ The Contribution Matrix
-
-```diff
-+ Status: Highly Active. Building in public.
-```
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnithaAmaravadi&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&custom_title=My%20Real%20Coding%20Activity%20Over%20Time" width="100%" alt="Activity Graph"/>
-</p>
-
-<!-- ═══════════════════════ WHY FOLLOW? ═══════════════════════ -->
-## 🎯 Why You Should Hit "Follow"
-
-> *"I don't just write code. I solve real-world problems and share the architecture behind them."*
-
-- ✅ **Real Projects:** I build things people actually use. Follow to see how I structure real applications.
-- ✅ **Clean Code Philosophy:** I believe in readability, scalability, and no-nonsense documentation.
-- ✅ **Open Source Mindset:** I frequently share snippets, solutions, and tools I discover along the way.
-- ✅ **Growth in Public:** Watch me tackle complex system designs and cloud architecture challenges.
-
----
-
-<p align="center">
-  <strong>💬 Let's build something impactful.</strong><br/>
-  <a href="https://www.linkedin.com/in/anitha-amaravadi3">Send me a message on LinkedIn →</a>
-</p>
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,12&height=150&section=footer" width="100%"/>
