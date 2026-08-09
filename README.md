@@ -10,7 +10,7 @@
 <img align="right" alt="Student Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### 👩‍💻 About Me: The Student Developer
-
+ 
 ```javascript
 const anitha_student = {
     status: "CSE (AI&ML) Student 🎓",
