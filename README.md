@@ -10,10 +10,10 @@
 <img align="right" alt="Student Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### 👩‍💻 About Me: The Student Developer
- 
+
 ```javascript
 const anitha_student = {
-    status: "CSE (AI&ML) Student 🎓",
+    status: "CSE (AI&ML) STUDENT 🎓",
     currentFocus: ["Data Structures", "Web Development", "AI/ML"],
     lookingFor: "Internships & Hackathon Collabs 🤝",
     dailyRoutine: ["Eat", "Sleep", "Code", "Debug", "Repeat"],
@@ -42,8 +42,8 @@ const anitha_student = {
 *(Note: It takes 1-2 minutes for these graphs to load the first time!)*
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=radical&hide_border=true&title_color=ff6e96&icon_color=79ffe1&text_color=a9fef7" alt="Anitha's GitHub stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnithaAmaravadi&theme=radical&hide_border=true&stroke=0000&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnithaAmaravadi&theme=radical" alt="Anitha's GitHub stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AnithaAmaravadi&theme=radical&hide_border=true&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="Streak Stats"/>
 </div>
 
 <div align="center">
