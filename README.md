@@ -9,11 +9,11 @@
 <!-- ═══════════════════════ STUDENT ABOUT ME ═══════════════════════ -->
 <img align="right" alt="Student Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-### 👩‍💻 About Me: The Student Developer
+### 👩‍ About Me: The Student Developer
 
 ```javascript
 const anitha_student = {
-    status: "CSE (AI&ML) STUDENT 🎓",
+    status: "CSE (AI&ML)  Student 🎓",
     currentFocus: ["Data Structures", "Web Development", "AI/ML"],
     lookingFor: "Internships & Hackathon Collabs 🤝",
     dailyRoutine: ["Eat", "Sleep", "Code", "Debug", "Repeat"],
@@ -43,7 +43,7 @@ const anitha_student = {
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnithaAmaravadi&theme=radical" alt="Anitha's GitHub stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AnithaAmaravadi&theme=radical&hide_border=true&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="Streak Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnithaAmaravadi&theme=radical" alt="Repos Per Language"/>
 </div>
 
 <div align="center">
