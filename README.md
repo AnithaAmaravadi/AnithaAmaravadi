@@ -26,7 +26,7 @@ const anitha_student = {
 
 - 🌱 I’m currently expanding my knowledge in **Full-Stack Development & Cloud**.
 - 👯 I’m looking to collaborate on **student projects and open-source**.
-- 💬 Ask me about **Python, Java, and Web Technologies**!
+- 💬 Ask me about **HTML, CSS, JS, Java, and Web Technologies**!
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anitha-amaravadi3)**
 
 <br>
