@@ -49,7 +49,7 @@ const anitha_student = {
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnithaAmaravadi&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Coding%20Activity%20%F0%9F%93%88" alt="Activity Graph"/>
 </div>
-
+ 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ### 🤝 Let's Connect & Grow Together!
 <p align="center">
