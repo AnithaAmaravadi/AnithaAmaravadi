@@ -70,7 +70,8 @@ const anitha_student = {
   <a href="https://github.com/AnithaAmaravadi?tab=repositories">
     <img src="https://img.shields.io/badge/⭐%20Check%20My%20Repos-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Check My Repos"/>
   </a>
-</p>
+</p> 
+
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,12&height=150&section=footer" width="100%"/>
