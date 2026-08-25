@@ -24,8 +24,8 @@ const anitha_student = {
 
 <br>
 
-- 🌱 I’m currently expanding my knowledge in **Full-Stack Development & Cloud**.
-- 👯 I’m looking to collaborate on **student projects and open-source**.
+- 🌱 I'm currently expanding my knowledge in **Full-Stack Development & Cloud**.
+- 👯 I'm looking to collaborate on **student projects and open-source**.
 - 💬 Ask me about **HTML, CSS, JS, Java, and Web Technologies**!
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anitha-amaravadi3)**
 
@@ -46,31 +46,4 @@ const anitha_student = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnithaAmaravadi&theme=radical" alt="Repos Per Language"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnithaAmaravadi&theme=radical" alt="Contribution Graph & Profile Details"/>
-</div>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-### 🤝 Let's Connect & Grow Together!
-<p align="center">
-  <a href="https://github.com/AnithaAmaravadi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnithaAmaravadi?label=Follow%20Me%20on%20GitHub&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anitha-amaravadi3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ BLUE QUOTE & REPOS ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=%22Small+steps+every+day+turn+into+big+results.%22+%E2%9C%A8;Keep+learning,+keep+building!+%F0%9F%92%99" alt="Quote" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnithaAmaravadi?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐%20Check%20My%20Repos-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Check My Repos"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,12&height=150&section=footer" width="100%"/>
+###
