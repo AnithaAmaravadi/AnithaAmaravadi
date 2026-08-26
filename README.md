@@ -20,7 +20,7 @@ const anitha_student = {
     funFact: "I can debug code faster than I can make coffee ☕",
     2024_Goals: "Contribute to Open Source & Build 3 Major Projects"
 };
-```
+```  
 
 <br>
 
