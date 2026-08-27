@@ -174,6 +174,5 @@ I believe in building not just functional software, but elegant, maintainable, a
 
 **Made with ❤️ by Anitha Amaravadi**
 
-*Last Updated: 27 August 2026*
-
+ 
 </div>
