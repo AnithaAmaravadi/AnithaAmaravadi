@@ -1,95 +1,179 @@
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8B5CF6&height=220&section=header&text=Anitha%20Amaravadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20%28AI%20%26%20ML%29%20Student%20%F0%9F%8E%93%20|%20Tech%20Enthusiast&descSize=18&descAlignY=62" width="100%"/>
+# 👋 Hi, I'm Anitha Amaravadi!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=gradient&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Anitha+%F0%9F%91%8B;CSE+%28AI+%26+ML%29+Student+Passionate+About+Code+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80;Building+Projects+%26+Solving+Problems+%F0%9F%A7%A0" alt="Typing SVG" />
+  <p>
+    <strong>Full-Stack Developer | MERN Stack Enthusiast | Open Source Contributor</strong>
+  </p>
+  <p>
+    Passionate about building scalable web applications and learning new technologies.
+    Currently pursuing my 3rd year and aiming for top-tier internships and placements.
+  </p>
 </div>
 
-<!-- ═══════════════════════ STUDENT ABOUT ME ═══════════════════════ -->
-<img align="right" alt="Student Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+---
 
-### 👩‍💻 About Me: The Student Developer
+## 🚀 About Me
+
+- 🎓 **3rd Year CSE (AI&ML) Student** pursuing Computer Science
+- 💻 **Full-Stack Developer** specializing in MERN Stack
+- 🌱 **Continuous Learner** - Always exploring new technologies
+- 🎯 **Goal** - Crack internships at top MNCs and secure great placement
+- 📍 **Location** - India
+- 💡 **Interests** - Web Development, System Design, AI/ML, Open Source
+
+---
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaAmaravadi&layout=compact&theme=radical)
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=AnithaAmaravadi&theme=radical)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 1. **Architecture Overview**
+   - 📌 System architecture visualization with Mermaid diagrams
+   - 🔗 [Repository](https://github.com/AnithaAmaravadi/architecture-overview)
+   - ⭐ Features: Microservices, Database Design, Monitoring
+
+### 2. **Internship Roadmap**
+   - 📌 Comprehensive guide to crack internships and placements
+   - 🔗 [Repository](https://github.com/AnithaAmaravadi/internship-roadmap)
+   - ⭐ Features: Month-by-month plan, Resources, Interview prep
+
+### 3. **[Your Project Name]**
+   - 📌 Brief description of your amazing project
+   - 🔗 [Repository](link)
+   - ⭐ Tech Stack: React, Node.js, MongoDB
+
+### 4. **[Your Project Name]**
+   - 📌 Another impressive project description
+   - 🔗 [Repository](link)
+   - ⭐ Tech Stack: Vue.js, Express, MySQL
+
+---
+
+## 🎓 Learning Path & Achievements
+
+### Current Focus
+- ✅ Data Structures & Algorithms (DSA)
+- ✅ Full-Stack Web Development (MERN)
+- ✅ System Design Basics
+- ✅ Competitive Programming
+
+### Achievements
+- 🏆 Solved 50+ DSA problems on LeetCode
+- 🏆 Built 5+ production-ready projects
+- 🏆 Active GitHub contributor
+- 🏆 Open Source contributor
+
+---
+
+## 📈 What I'm Currently Doing
+
+- 🔨 Building full-stack projects with **React + Node.js + MongoDB**
+- 📚 Mastering **Data Structures & Algorithms**
+- 🎯 Preparing for **top-tier internships**
+- 🌐 Contributing to **open-source projects**
+- 💬 Learning from **tech communities**
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anitha-amaravadi3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnithaAmaravadi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaravadianitha3@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnithaAmaravadi)
+
+</div>
+
+---
+
+## 💬 Quick Facts
 
 ```javascript
-const anitha_student = {
-    status: "CSE (AI&ML) Student 🎓",
-    currentFocus: ["Data Structures", "Web Development", "AI/ML"],
-    lookingFor: "Internships & Hackathon Collabs 🤝",
-    dailyRoutine: ["Eat", "Sleep", "Code", "Debug", "Repeat"],
-    funFact: "I can debug code faster than I can make coffee ☕",
-    2024_Goals: "Contribute to Open Source & Build 3 Major Projects"
+const anitha = {
+  name: "Anitha Amaravadi",
+  role: "Full-Stack Developer",
+  location: "India",
+  education: "3rd Year CSE (AI&ML) Student",
+  expertise: ["Frontend", "Backend", "Full-Stack"],
+  languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+  frameworks: ["React", "Vue.js", "Node.js", "Django", "Express"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  goal: "Crack top-tier internships & secure great placement",
+  openTo: "Internship Opportunities, Collaborations, Open Source"
 };
-```  
+```
 
-<br>
+---
 
-- 🌱 I'm currently expanding my knowledge in **Full-Stack Development & Cloud**.
-- 👯 I'm looking to collaborate on **student projects and open-source**.
-- 💬 Ask me about **HTML, CSS, JS, Java, and Web Technologies**!
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anitha-amaravadi3)**
+## 📚 Resources I Use
 
-<br>
+- **DSA Practice**: LeetCode, GeeksforGeeks, HackerRank
+- **Web Development**: MDN, Udemy, FreeCodeCamp
+- **System Design**: Grokking System Design Interview
+- **Community**: Dev.to, HashNode, Indie Hackers
 
-<!-- ═══════════════════════ ANIMATED TECH STACK ═══════════════════════ -->
-### 🛠️ My Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongodb,git,github,vscode&theme=dark" />
-</p>
+---
 
-<!-- ═══════════════════════ LIVE STATS (NEVER BREAKS) ═══════════════════════ -->
-### 📊 My GitHub Journey (Live Data)
+## 🎉 Fun Fact
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AnithaAmaravadi?style=for-the-badge&color=1E90FF&label=GitHub%20Followers&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/last-commit/AnithaAmaravadi/AnithaAmaravadi?style=for-the-badge&color=00C853&label=Last%20Commit&logo=git&logoColor=white" alt="Last Commit"/>
-  <img src="https://komarev.com/ghpvc/?username=AnithaAmaravadi&style=for-the-badge&color=8b5cf6&label=Profile+Views" alt="Profile Views"/>
-</p>
+> "Code is poetry written for computers and read by humans."
+
+I believe in building not just functional software, but elegant, maintainable, and scalable solutions. Every line of code tells a story!
+
+---
 
 <div align="center">
+  
+### ⭐ If you like my work, don't forget to give a star! ⭐
 
-| 📁 Repositories | 🔥 Contributions | 💻 Languages |  Focus |
-|:---:|:---:|:---:|:---:|
-| 20+ | 130+ this year | HTML • CSS • JS • Java • Python | AI & ML 🤖 |
+**Made with ❤️ by Anitha Amaravadi**
+
+*Last Updated: 27 August 2026*
 
 </div>
-
-### 📈 My Contribution Chart (Last Year)
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/1E90FF/AnithaAmaravadi" alt="Anitha's GitHub Contribution Chart"/>
-</div>
-
-<!-- ═══════════════════════ SNAKE IN THE BOXES ═══════════════════════ -->
-### 🐍 Snake Eating My Contribution Boxes
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contribution boxes" src="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-### 🤝 Let's Connect & Grow Together!
-<p align="center">
-  <a href="https://github.com/AnithaAmaravadi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnithaAmaravadi?label=Follow%20Me%20on%20GitHub&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anitha-amaravadi3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ BLUE QUOTE & REPOS ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=%22Small+steps+every+day+turn+into+big+results.%22+%E2%9C%A8;Keep+learning,+keep+building!+%F0%9F%92%99" alt="Quote" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnithaAmaravadi?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐%20Check%20My%20Repos-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Check My Repos"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E90FF&height=150&section=footer" width="100%"/>
