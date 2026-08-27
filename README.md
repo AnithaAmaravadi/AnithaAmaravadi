@@ -3,7 +3,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Hey!+I'm+Anitha+%F0%9F%91%8B;Welcome+To+My+World+🚀;Full-Stack+Developer+💻;Let's+Code+Something+Amazing!+✨" />
 </h1>
-
+ 
 ---
 
 ## 🎪 **Who Am I?**
