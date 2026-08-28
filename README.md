@@ -103,27 +103,7 @@ looking_for: 🤝 Internships | Open Source | Collabs
 <div align="center">
 
 ```
-📊 SKILL PROGRESSION TRACKER
-
-🔤 DSA Mastery
-   ████████████████░░░ 80%
-
-💻 MERN Stack Development  
-   ███████████████░░░░░ 75%
-
-🎨 UI/UX & Animations
-   █████████████░░░░░░░ 65%
-
-🌐 System Design
-   ██████████░░░░░░░░░░ 50%
-
-🤖 AI/ML Basics
-   ███████░░░░░░░░░░░░░ 35%
-```
-
-</div>
-
----
+ ---
 
 ## 🎯 **My Epic Quest** 🗺️
 
