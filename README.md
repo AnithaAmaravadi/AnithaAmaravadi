@@ -135,7 +135,7 @@ A weather application that provides users with weather information through a cle
 🔗 [Source Code](YOUR_WEATHER_GITHUB_LINK)
 
 ---
-
+  
 ### 📱 QR Code Generator
 
 A multi-purpose QR code generator created to generate QR codes for different types of information.
