@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 👋 Hey, I'm Anitha Amaravadi
 
 ### `B.Tech AIML Student` • `Aspiring Software Developer` • `AI/ML Enthusiast`
