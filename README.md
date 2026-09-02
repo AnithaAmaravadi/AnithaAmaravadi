@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Anitha Amaravadi     
 
 ### `B.Tech AIML Student` • `Aspiring Software Developer` • `AI/ML Enthusiast`
-
+    
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Projects+%7C+Learning+Every+Day;Java+%7C+Python+%7C+JavaScript;Artificial+Intelligence+%7C+Machine+Learning;Full+Stack+Development+%7C+DSA;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
 
 <br>
