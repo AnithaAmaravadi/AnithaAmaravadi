@@ -36,7 +36,7 @@ AI-powered applications that solve real-world problems.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](linkedin.com/in/anitha-amaravadi3)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/anitha-amaravadi3/)
    
 ---
 
