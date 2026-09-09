@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anitha Amaravadi
 
-### 🎓 B.Tech Artificial Intelligence & Machine Learning Student
+### 🎓 B.Tech Artificial Intelligence & Machine Learning Student(CSE)
 
 I'm a passionate developer student interested in building real-world projects
 and continuously improving my programming and development skills.
