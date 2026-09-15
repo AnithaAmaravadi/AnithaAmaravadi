@@ -1,108 +1,186 @@
-# 👋 Hi, I'm Anita Amaravadi
+<!-- ======================= HERO ======================= -->
 
-### 🎓 B.Tech AIML Student | 💻 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast
+<div align="center">
 
-Welcome to my GitHub! 🚀
-I'm a passionate **B.Tech student specializing in Artificial Intelligence & Machine Learning**, currently building my skills through hands-on projects, coding practice, and continuous learning.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=ANITHA%20AMARAVADI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-I enjoy turning ideas into practical projects and exploring **Web Development, AI/ML, Java, Python, and DSA**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=B.Tech+AI%2FML+Student+%F0%9F%A4%96;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Java+%7C+Python+%7C+JavaScript+%7C+DSA;Building+Projects+%7C+Learning+%7C+Growing+%F0%9F%9A%80"/>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=AnithaAmaravadi&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
 
-* 🎓 B.Tech — Artificial Intelligence & Machine Learning
-* 💻 Aspiring Full-Stack & Web Developer
-* 🤖 Exploring AI & Machine Learning
-* 🧠 Practicing Data Structures & Algorithms
-* ☕ Currently improving my Java & Python skills
-* 🌱 Learning by building real-world projects
-* 🔥 Consistently working on GitHub projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👩‍💻 About Me
 
-### 💻 Languages
+```javascript
+const Anita = {
+    education: "B.Tech - Artificial Intelligence & Machine Learning",
+    role: "Student Developer",
+    goal: "Aspiring Full-Stack Developer",
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "DSA"
+    ],
+    languages: ["Java", "Python", "JavaScript"],
+    mindset: "Learn → Build → Improve → Repeat 🚀"
+};
+```
 
-`Java` `Python` `JavaScript` `HTML` `CSS`
-
-### 🌐 Web Development
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
-### 🤖 AI / ML
-
-`Python` `Machine Learning` `AI Fundamentals`
-
-### 🧠 Problem Solving
-
-`DSA` `Git` `GitHub`
-
----
-
-## 📌 Featured Projects
-
-### 🌦️ Weather Pulse
-
-A weather dashboard providing real-time weather information with a clean and responsive interface.
-
-### 👗 Trendly — Fashion Store
-
-A responsive fashion e-commerce website built using modern frontend technologies.
-
-### 🔗 LinkTruth
-
-A web-based project focused on analyzing links and identifying potentially suspicious URLs.
-
-### 🎮 Pocket Arcade
-
-A browser-based collection of simple interactive mini-games.
-
-> 🚧 More projects are coming as I continue learning and building.
+> 💡 **I don't just learn technologies — I build with them.**
 
 ---
 
-## 📊 GitHub Activity
+# ⚡ What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnithaAmaravadi&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaAmaravadi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| 🧠 Learning |   🛠️ Building   |    🎯 Improving   |
+| :---------: | :--------------: | :---------------: |
+|  Java & DSA |   Web Projects   |  Problem Solving  |
+|    Python   |  AI/ML Projects  |    Git & GitHub   |
+|  JavaScript | Real-World Ideas | Full-Stack Skills |
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AnithaAmaravadi/Weather-pulse">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=Weather-pulse&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AnithaAmaravadi/trendly-fashion-store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=trendly-fashion-store&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AnithaAmaravadi/Link-Truth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=Link-Truth&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AnithaAmaravadi/pocket-arcade">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=pocket-arcade&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Learning-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-Building-FF61D8?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnithaAmaravadi&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaAmaravadi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnithaAmaravadi/AnithaAmaravadi/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💻 Developer Mindset
+
+<div align="center">
 
 ```text
-✔ Strengthen Java & DSA
-✔ Build more real-world projects
-✔ Improve Full-Stack Development skills
-✔ Explore AI & Machine Learning
-✔ Contribute to GitHub consistently
-✔ Prepare for internships & placements
+          ┌──────────────────────────┐
+          │       HAVE AN IDEA       │
+          └────────────┬─────────────┘
+                       ↓
+              💡 THINK & PLAN
+                       ↓
+              💻 WRITE CODE
+                       ↓
+               🐛 DEBUG
+                       ↓
+              🚀 BUILD PROJECT
+                       ↓
+              📈 LEARN & IMPROVE
+                       ↓
+                  🔁 REPEAT
+```
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+```text
+[████████████████░░░░] 80%
+
+☑ Build meaningful projects
+☑ Improve Java
+☑ Practice DSA
+☑ Strengthen Python
+☑ Explore AI/ML
+☑ Improve Web Development
+☐ Become internship-ready
+☐ Build something people actually use 🚀
 ```
 
 ---
 
-## 🌱 Currently Learning
+# 🌐 Connect With Me
 
-**Java • DSA • Python • JavaScript • Full-Stack Development • AI/ML**
+<div align="center">
+
+<a href="https://github.com/AnithaAmaravadi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anitha-amaravadi3/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-💼 **LinkedIn:** [Anita Amaravadi](https://www.linkedin.com/in/anitha-amaravadi3/)
+### 💫 Learning today. Building tomorrow.
 
-💻 **GitHub:** [AnithaAmaravadi](https://github.com/AnithaAmaravadi)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
 
----
-
-### ✨ "Learning by building. Building to grow."
-
-⭐ Thanks for visiting my profile!
+</div>
