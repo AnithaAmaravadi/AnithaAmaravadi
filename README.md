@@ -17,7 +17,7 @@
 # 👩‍💻 About Me
 
 ```javascript
-const Anita = {
+const Anitha = {
     education: "B.Tech - Artificial Intelligence & Machine Learning",
     role: "Student Developer",
     goal: "Aspiring Full-Stack Developer",
@@ -49,31 +49,7 @@ const Anita = {
 </div>
 
 ---
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AnithaAmaravadi/Weather-pulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=Weather-pulse&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/AnithaAmaravadi/trendly-fashion-store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=trendly-fashion-store&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/AnithaAmaravadi/Link-Truth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=Link-Truth&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/AnithaAmaravadi/pocket-arcade">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnithaAmaravadi&repo=pocket-arcade&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
+ 
 # 🛠️ Tech Universe
 
 <div align="center">
