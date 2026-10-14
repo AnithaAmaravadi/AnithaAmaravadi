@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anitha+%F0%9F%91%8B;B.Tech+CSE+%28AI+%26+ML%29+Student;3rd+Year+%7C+Graduating+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anitha+%F0%9F%91%8B;B.Tech+CSE+%28AI+%26+ML%29+Student;3rd+Year+Student;AI+%26+ML+Learner;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Anitha Amaravadi</h1>
@@ -75,7 +75,7 @@ A machine learning project focused on predicting road accident risk using traffi
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=radical&hide=languages" alt="GitHub Stats" />
 </p>
 
 ---
@@ -83,6 +83,6 @@ A machine learning project focused on predicting road accident risk using traffi
 ### Contact
 - Email: amaravadianitha3@gmail.com
 - LinkedIn: www.linkedin.com/in/anitha-amaravadi3
- 
+  
 
 > I’m actively exploring opportunities in AI, web development, and software engineering. If you’d like to collaborate or connect, feel free to reach out.
