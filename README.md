@@ -17,7 +17,7 @@ I like turning ideas into polished experiences — whether it’s an AI tool, a 
 
 - 🔭 Currently learning: AI workflows, modern web development, and product thinking
 - 🌱 Interested in: AI, ML, web apps, developer tools, and automation
-- 🤝 Open to: internships, collaborations, and project-based learning
+- 🤝 Open to: internships, collaborations, and project-based learning 
 - 📍 Based in: India
 
 ---
