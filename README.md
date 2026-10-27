@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anitha+%F0%9F%91%8B;B.Tech+CSE+%28AI+%26+ML%29+Student;3rd+Year+Student;AI+%26+ML+Learner;Building+Real-World+Projects" alt="Typing SVG" />
-</p>
+</p> 
 
 <h1 align="center">Anitha Amaravadi</h1>
 <p align="center"> 
