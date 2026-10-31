@@ -70,7 +70,14 @@ A machine learning project focused on predicting road accident risk using traffi
 🔗 https://github.com/AnithaAmaravadi/RoadGuard-AI
 
 ---
- 
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnithaAmaravadi&bg_color=ffffff&color=1d4ed8&line=2563eb&point=60a5fa&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ### Contact
 - Email: amaravadianitha3@gmail.com
