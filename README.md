@@ -71,17 +71,6 @@ A machine learning project focused on predicting road accident risk using traffi
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnithaAmaravadi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaAmaravadi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### Contact
 - Email: amaravadianitha3@gmail.com
