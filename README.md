@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-3rd%20Year%20B.Tech-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grad-2028-6B7280?style=for-the-badge" />
 </p>
-
+ 
 ### About Me
 I’m a 3rd-year B.Tech student in Computer Science with a focus on AI & ML. I enjoy building practical web apps, creative AI demos, and user-focused projects that combine code, design, and problem-solving.
 
