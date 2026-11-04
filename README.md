@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Anitha Amaravadi</h1>
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/AnithaAmaravadi"><img src="https://img.shields.io/badge/GitHub-AnithaAmaravadi-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Status-3rd%20Year%20B.Tech-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grad-2028-6B7280?style=for-the-badge" />
