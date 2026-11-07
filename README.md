@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anitha+%F0%9F%91%8B;B.Tech+CSE+%28AI+%26+ML%29+Student;3rd+Year+Student" />
 </p>
-
+ 
 <h1 align="center">Anitha Amaravadi</h1>
 <p align="center">
   <a href="https://github.com/AnithaAmaravadi"><img src="https://img.shields.io/badge/GitHub-AnithaAmaravadi-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
